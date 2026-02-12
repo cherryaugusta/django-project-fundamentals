@@ -75,7 +75,8 @@ Windows
 myvenv\Scripts\activate
 ```
 macOS / Linux
-```source myvenv/bin/activate
+```
+source myvenv/bin/activate
 ```
 Successful activation displays:
 ```

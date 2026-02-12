@@ -219,7 +219,7 @@ It is not intended for production use, commercial deployment, or handling real u
 
 ---
 
-📄 License
+## 📄 License
 This project is open for educational review and portfolio inspiration. Attribution is appreciated when reused.
 
 ---
